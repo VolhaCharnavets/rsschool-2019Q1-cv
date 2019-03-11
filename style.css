@@ -14,3 +14,13 @@ h2 {
 footer {
     background-color: antiquewhite;
 }
+img {
+    float: right;
+    margin: 0 100px 0 80px;
+}
+div {
+    width: 1024px;
+    height: 145px;
+    text-align: right;
+    font-weight: bold;
+}
