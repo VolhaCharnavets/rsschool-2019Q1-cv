@@ -2,3 +2,12 @@ body {
     max-width: 1024px;
     text-align: center;
 }
+h1 {
+    background-color: antiquewhite;
+}
+h2 {
+    background-color: antiquewhite;
+}
+.comments {
+    font-style: italic;
+}
